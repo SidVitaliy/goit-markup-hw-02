@@ -174,7 +174,7 @@ body {
 .team-name{
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,19;
+    line-height: 1.19;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--link-title-text-color);
@@ -183,7 +183,7 @@ body {
 .team-function{
     font-weight: 400;
     font-size: 16px;
-    line-height: 1,19;
+    line-height: 1.19;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--desc-text-color);
@@ -212,7 +212,7 @@ body {
 
 .footer-address-desc {
     font-family: var(--main-font);
-    font-style: normal;
+    font-style: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -254,10 +254,10 @@ body {
     background-color: var(--accent-color);
 }
 
-.hero-button-desc.current {
+/*.hero-button-desc.current {
     color: white; 
     background-color: var(--accent-color);
-}
+}*/
 .hero-button-desc{
    
     font-family: var(--main-font);
@@ -293,7 +293,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.87;
 letter-spacing: 0.03em;
-color: -var(--desc-text-color);
+color: var(--desc-text-color);
 }
 /*=========Image Links END=============*/
 
